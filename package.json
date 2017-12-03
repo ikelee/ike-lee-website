@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://ikelee.github.io/ikelee.github.io"
+  "homepage": "https://ikelee.github.io/ike-lee-website"
 }
