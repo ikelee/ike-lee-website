@@ -8,6 +8,7 @@ const Img = styled.img`
   height: 100%;
   filter: grayscale(1);
   max-width: 100vw;
+  max-height: inherit; 
 `
 
 const Title = styled.div`
@@ -47,6 +48,7 @@ const FlexBox = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  max-height: 100vh;
 `
 
 const Contact = styled.div`
